@@ -192,9 +192,9 @@ This project demonstrates how to combine **data engineering, analytics, and busi
 
 **👤 Shakeer Shaik**  
 📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
-📬 [LinkedIn]((https://www.linkedin.com/in/shakeer-shaik-508958235/)) 
+📬 **LinkedIn:** [shakeer-shaik](https://www.linkedin.com/in/shakeer-shaik-508958235/)
 
-📧 [harshbelekar74@gmail.com](mailto:shakeershaik489@gmail.com)
+📧 [shakeershaik489@gmail.com](mailto:shakeershaik489@gmail.com)
 
 ---
 
