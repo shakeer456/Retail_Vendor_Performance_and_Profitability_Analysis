@@ -1,4 +1,4 @@
-# 🏢 Retail Vendor Performance Analysis (Python + SQL + PowerBI)
+# 🏢 Retail Vendor Performance and Profitability Analysis (Python + SQL + PowerBI)
 
 ![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow) ![Language](https://img.shields.io/badge/Language-Python-blue) ![Database](https://img.shields.io/badge/Database-SQLite-green) ![Focus](https://img.shields.io/badge/Focus-Data_Analytics-orange) ![Type](https://img.shields.io/badge/Type-Company_Level_Project-red) ![Dashboard 1](https://img.shields.io/badge/Dashboard-Executive_Summary-blue) ![Dashboard 2](https://img.shields.io/badge/Dashboard-Cost_Efficiency_&_Inventory-green)
 
